@@ -13,7 +13,7 @@ Comandos paso a paso:
 
 Te vas en la consola al lugar donde quieres bajar el proyecto
 
-```cmd
+```bat
 git clone https://github.com/Serbrylex/notion.git
 
 cd notion
